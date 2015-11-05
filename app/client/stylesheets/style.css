@@ -94,3 +94,11 @@ img {
   background-position: center;
   height: 385px;
 }
+
+.about {
+  padding-top: 450px;  /* Move body of page below navbar. */
+  background-image: url("/images/cover-about-eono.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
