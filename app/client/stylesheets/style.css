@@ -76,7 +76,14 @@ img {
   padding-top: 450px;  /* Move body of page below navbar. */
   background-image: url("/images/cover-pueo-page.jpg");
   background-size: cover;
-  background-position: center;  
+  background-position: center;
+  height: 385px;
+}
+.aukahi {
+  padding-top: 450px;  /* Move body of page below navbar. */
+  background-image: url("/images/cover-aukahi.jpg");
+  background-size: cover;
+  background-position: center;
   height: 385px;
 }
 
