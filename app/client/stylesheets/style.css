@@ -87,3 +87,10 @@ img {
   height: 385px;
 }
 
+.v6 {
+  padding-top: 450px;  /* Move body of page below navbar. */
+  background-image: url("/images/cover-v6-page.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
